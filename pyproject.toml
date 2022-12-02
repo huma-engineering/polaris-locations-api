@@ -6,10 +6,6 @@ authors = ["Duncan Booth <duncan.booth@sensynehealth.com>"]
 keywords = ["Locations"]
 repository = "https://github.com/draysontechnologies/dhos-locations -api"
 
-[[tool.poetry.source]]
-name = "sensynehealth"
-url = "https://pypi.fury.io/sensynehealth/"
-
 [tool.poetry.dependencies]
 python = "^3.9"
 draymed = "2.*"
